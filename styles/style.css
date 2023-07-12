@@ -38,6 +38,7 @@ body {
 	cursor: pointer;
 	outline: none;
 	font-size: 18px;
+	font-weight: 600;
 	color: #191411;	
 }
 
@@ -58,6 +59,8 @@ body {
 	overflow: hidden;
 	background-image: url("../images/main_bg.png");
 	background-position: top center;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .header {
